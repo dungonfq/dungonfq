@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I'm Dung Ngo, but u can call me Zayn.
+- 26 year old
+- FE Developer
+- 🔭 I’m currently working on NFQ Asia
+
 <a href="https://app.daily.dev/dungonfq95"><img src="https://api.daily.dev/devcards/0ea396b05d7445a99e8169df52b9b755.png?r=813" width="400" alt="dungonfq's Dev Card"/></a>
 
 <!--
