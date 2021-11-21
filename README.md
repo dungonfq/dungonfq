@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm Dung Ngo, but u can call me Zayn.
+- I'm Dung Ngo (aka Zayn).
 - 26 yo, a FE Developer
 - 🔭 I’m currently working at NFQ Asia
 
