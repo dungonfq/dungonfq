@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - I'm Dung Ngo (aka Zayn).
 - 26 yo, a FE Developer
