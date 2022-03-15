@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,vue,react,nuxtjs,tailwind,laravel,php,jenskin,ai)](https://skillicons.dev)
+## My skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,vue,react,nuxtjs,nodejs,tailwind,laravel,php,jenkins,ai)](https://skillicons.dev)
